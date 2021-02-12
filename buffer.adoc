@@ -9,22 +9,33 @@
 
 
 
-## Objets
+## Univers
 
+    -   Les Univers peuvent se succeder dans un Univers de super ordre
+    -   Deux Informations identiques donnent deux Univers identiques, en particulier ils possedent la meme quantité d'énergie.
+    -   Un observateur dans des Univers identiques ne peut determiner l'ordinalité de son Univers, car toutes choses sont semblables en tout point.
+    -   La matérialisation d'un Univers est sa réprensation physique, elle dépend par ailleurs de la position dans l'espace temps de l'observateur.
+    -   Si existe une altération d'une information dans L'Information alors il est possible théoriquement de déterminer que l'on est pas dans l'Univers 0 puisqu'il peut exister des reliquats d'information non matérialisé.
+
+## Objets  
     -   Toute chose est un objet
     -   Chaque objet est lié à l'Information
     -   Chaque objet peut posseder des attributs.
+    -   Si un objet existe c'est que les causes essentielles à son existence existent.
+    -   Si un objet n'existe pas c'est soit qu'une cause essentielle n'existe pas, soit une cause de sa non existence existe.
     -   On peut regrouper les objets selon des critères, dans chacun des ensembles définis il existe une loi première de numération:
         -   Pour que (n+1) objet soient dans un ensemble il faut déjà qu'il y ait n objet dans cet ensemble :
         Conséquences:
         .   Il existe un ensemble infini d'objet, il s'agit des objets qui n'existent pas.
         .   Chaque unique objet possède un ensemble de taille 1 qui le contient.
+        
         .   Il existe un nombre restreint d'objet qui existent, ce sont ceux des ensemble de taille 1.
         .   Il existe un nombre encore plus restreint d'ensemble de taille 2
 
     -   Chaque Univers est un objet
     -   Chaque objet peut être composé de différents sous-objets
-    -   Un sous-objet est un objet 
+    -   Une propriété d'un objet est un sous-objet.
+    -   Un sous-objet est un objet, 
     -   Chaque objet possède une horloge particulière
     -   Un objet existe entre son début et sa fin
     -   Parallelement, un objet existe entre sa création et sa destruction
@@ -117,3 +128,14 @@
     -   La notion de minorité peut être définie par une minorité en terme de nombre d'individu ou être un ensemble de population dont l'accès a la capacité de moduler l'action de l'ensemble est altéré.
     -   Il ne faut pas combattre les minorités mais le fait, dans ce second cas qu'ils puissent être mis en minorité, c'est à dire privé de ses droits.
     -   La majorité est un arrangement particulier de différentes minorités par le nombre.
+    -   Les notions d'enfer et de paradis sont définies de manière allégoriques.
+    
+    -   On peut considerer que l'enfer est l'état du monde que certains contribuent à laisser après leur disparition du fait d'action ayant des conséquences facheuses. Ainsi l'enfer est effectivement l'endroit ou ils reposent après leur mort.   
+    -   Il est fort probable que la notion d'enfer ait été définie avec la desertification ou d'autre cataclysmes.
+    -   Toute action positive peut avoir des conséquences négatives à terme.
+    -   Toute action négative peut avoir des conséquences positives à terme.
+    -   Dans le cadre d'un don désinteressé c'est celui qui donne qui se sent obligé et les materialisation émotionelles indiquent que c'est une interaction sociale de base.
+    -   Les humains véhiculant diverses autre creatures au sein de leur corps et leurs cellules, il ne peut être que considéré fallacieux que l'ordre auquel se soumettent les humains ne puisse être que la société humaine.
+    -   Une société bien ordonnée veille à permettre à tous l'accès au savoir, car cela au dela des aspects moraux, recelle des critères d'efficacité. Ainsi il est souhaitable d'indexer la durée des études avec l'espérance de vie.
+    -   Chaque m² de surface d'une parcelle contient un grand nombre d'être vivant, ainsi la notion de propriété ne peut pas être considéré comme légitime par un seul individu.
+    
