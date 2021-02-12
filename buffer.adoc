@@ -1,0 +1,90 @@
+
+## Axiomes
+    Au commencemment il y a l'Information.
+    Un Univers est une réprésentation tangible d'une Information
+
+## Principes
+
+
+
+
+
+## Objets
+
+    -   Toute chose est un objet
+    -   Chaque objet est lié à l'Information
+    -   Chaque objet peut posseder des attributs.
+    -   On peut regrouper les objets selon des critères, dans chacun des ensembles définis il existe une loi première de numération:
+        -   Pour que (n+1) objet soient dans un ensemble il faut déjà qu'il y ait n objet dans cet ensemble :
+        Conséquences:
+        .   Il existe un ensemble infini d'objet, il s'agit des objets qui n'existent pas.
+        .   Chaque unique objet possède un ensemble de taille 1 qui le contient.
+        .   Il existe un nombre restreint d'objet qui existent, ce sont ceux des ensemble de taille 1.
+        .   Il existe un nombre encore plus restreint d'ensemble de taille 2
+
+    -   Chaque Univers est un objet
+    -   Chaque objet peut être composé de différents sous-objets
+    -   Un sous-objet est un objet 
+    -   Chaque objet possède une horloge particulière
+    -   Un objet existe entre son début et sa fin
+    -   Parallelement, un objet existe entre sa création et sa destruction
+    -   Creation et début ne sont pas obligatoirement confondus
+    -   Destruction et fin ne sont pas obligatoirement confondus
+    -   Les objets interagissent entre eux avec des interactions
+    -   Les interactions sont des objets
+    -   Il suffit de connaitre précisement toute les interactions potentielles d'un objet pour identifier cet objet.
+    -   Il ne suffit pas de tout connaitre d'un ensemble d'objet pour connaitre les toutes les interactions, car il peut manquer différents types d'objets et ainsi l'ensemble des interactions potentielles peut ne pas être connu.
+    -   Les objets sont définis parfaitement quand ils n'interagissent pas, ils se figent
+    -   Les objets tendent vers leur complete definition avec le temps à cause du nombre grandissant d'interactions qu'ils subissent.
+    -   Quand un objet est complétement défini, c.a.d. que toutes ses propriétés sont connues il est figé.
+    -   Lorsqu'un objet tend à se figer, sa fixation peut forcer un autre objet à sortir de son état figé. 
+    -   Le temps est la succession de phenomène amenant des objets interagissant a sortir puis entrer dans un etat de fixation de manière non ordonnée. (Tous ne vont pas se fixer en meme temps)
+    -   Le temps ne peut pas exister s'il n'existe pas au moins deux objets.
+    -   Dans un écoulement du temps anisotrope les notions de cause et de conséquence sont confondues.
+    -   Lorsque l'on inverse l'écoulement du temps, les causes deviennent les conséquences et les conséquences deviennent les causes.
+    -   Debut et fin sont des notions temporelles.
+    -   Creation et destruction sont des notions logiques.
+    -   L'Information hébèrge la logique, le Temps les notions temporelles.
+    -   Il existe une réprésentation d'un Univers autour de chaque objet, particulière à lui et à ses positions dans l'espace-temps.
+    -   Une forme de vie est un objet
+    -   La Vie est l'ensemble des formes de vies.
+    -   Toute forme de vie possède un environement fini celui qu'elle colonise.
+    -   Toute forme de vie connait donc une limite au nombre d'objet qu'elle peut coloniser, ainsi que ceux qu'elle peut employer.
+    -   Independamment de savoir si un Univers dans lequel une forme de vie existe est fini, la forme de vie est confrontée à ces limites.
+    -   L'interaction que subit un objet peut potentiellement le figer
+    -   Lorsqu'un objet se créé lui-meme c'est qu'il est à la fois cause et conséquence de son existence.
+    -   Lorsqu'un tel objet existe il est un paradoxe temporel ou encore une singularité.
+    -   Lorsqu'un objet A qui est une paradoxe temporel interagit avec un autre objet B.
+        -   Une partie au moins des propriétés de l'objet B devient un paradoxe temporel.
+        -   Une partie au moins des interactions entre A & B sont des paradoxes temporels.
+        Conséquence: Un Univers s'il contient un objet étant un paradoxe temporel, certaines de ses propriétés sont l'état des sous objets donc des paradoxes temporels.
+        -   Dans un Univers etant un paradoxe temporel, tout les objet qu'il contient sont des paradoxes temporels. 
+    
+    -   Plus un objet est défini, plus il exerce "une pression" sur les objets environnant pour les forcer à se définir.
+    -   La matière est un ensemble d'objet partiellement figée.
+    -   Plus la matière est dense, plus elle fixe rapidement les objets.
+
+    -   Lorsqu'un objet est figé et est un paradoxe temporel, il tend à moduler la capacité de fixation d'un autre objet, donc à le définir.
+
+        -   En particulier: tout observateur contribue à définir les propriétés d'un objet, autant que l'objet observé contribue à définir les propriétés de l'observateur.
+    -   Lorsqu'un objet est une source des modifications d'autre objets, plus le temps passe, plus il y a de modifications.
+    -   Lorsque le temps est inversé, plus le temps passe à rebours moins il y a de modifications.
+    -   Les modifications dans un espace temps, c.a.d. entre un début et une fin peuvent ne pas être immédiates
+    -   Les vitesses des modifications dans l'Information peuvent être immédiates.
+    -   Les conséquences des modifications dans l'Information dans un espace temps sont immédiates.
+    
+    -   Plus la matière est dense plus elle temps à figer les objets dont elle est constituée.
+    -   Plus la matière observante, possède des interactions avec elle-meme en réaction avec un objet observé, plus elle le fixe rapidement.
+    -   En particulier une conscience fixe très rapidement les objets observés 
+    -   Un Univers peut contenir différents Univers.
+    -   Imaginer, c'est créer un Univers dotés d'une partie des propriétes de l'Univers autour de la forme de vie qui imagine.
+        -  En particulier: L'existence est la propriété minimale empruntée à l'Univers environnant à la forme de vie qui Imagine.
+    -   Reflechir, c'est employer cet Univers, afin de définir des actions qui n'affectent pas au départ l'Univers environnant, de determiner quelles sont à posteriori les meilleurs interactions avec les éléments du premier Univers
+
+    -   Plus l'Univers créé dérive précisement de l'Univers de départ, plus les actions mise en place après la reflexion ont de chances de modifier l'Univers de départ : Plus on possède d'élements de contexte, plus on a de chances d'arriver au resultat souhaité.
+
+
+    -   L'empathie est la capacité d'un esprit à capter plus d'information du contexte.
+
+    -   Il existe différentes émotions de base:
+        -   Peur, Tristesse, Colère, Dégout, Surprise, Joie, Interet, Honte 
