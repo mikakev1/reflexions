@@ -65,6 +65,7 @@ Cependant la notion de Cosmos n'est pas forcément un espace multidimensionel, i
 
 L'Information telle que je la définis est à considérer comme étant le récit de ce qui se déroule dans un Univers ou dans le Cosmos, ce dernier point me semble à affiner. L'Information peut être vue comme étant l'histoire d'un de ces objets mais rédigée à la toute fin de l'Univers considéré.
 
+Une de propriété liée à l'observateur implique que le temps de transfert d'une information est instantanée, donc par rapport à ce que l'on connait, l'Information ne possède pas de milieu de propagation donc n'est pas un espace, ou a un milieu de propagation parfait.
 
 
 ## Principes
