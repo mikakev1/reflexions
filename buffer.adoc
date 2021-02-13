@@ -1,4 +1,60 @@
 
+# Introduction
+
+
+Au départ il y a un juste un paradoxe, que je vais décrire ci dessous:
+
+Deux automates A et B, programmés pour ne faire qu'une seule chose, repeter ce qu'ils entendent sont prisonnier d'un Univers réduit à eux-memes et il y a un observateur, qui rend compte de leurs échanges, sans rien emettre ni interferer.
+
+_____              _____
+|   |              |   |
+| A |              | B |
+|___|              |___|
+
+
+Dans la physique moderne on considère que les choses vont invariablement du passé vers le futur, c'est le sens de l'entropie.
+A n'entend rien il n'a rien à repeter à B, si vous intervertissez A&B, c'est la meme chose. Donc dans le cadre strict de la physique moderne, c'est le silence complet.
+
+Maintenant je vais tricher, en apparence seulement :
+Je vais violer le principe et dire que A emet vers B, donc B va répeter
+
+    __>__ signal _>__
+   /                 \
+_____              _____
+|   |              |   |
+| A |              | B |
+|___|              |___|
+   \                 /
+    \_<_repetition<_/
+
+Il n'existe qu'une seule possibilité, pour que tricher soit légal, il faut que B envoie sa répetition vers A _avant_ que A n'emette le signal. Dans ce cas il se pose un certain nombre de paradoxes.
+
+-   A répete B est la _conséquence_ du fait que B repete A
+-   Simulatanément, A répete B est la _cause_ du fait que B repete A
+
+Au final, il existe une relation de causalité infinie :
+A -> (engendre) B -> A -> B ... A -> B -> A ...
+
+J'appelle ceci une singularité ou encore un paradoxe temporel.
+
+L'observateur dans le cadre de la physique classique ne peut raporter qu'un silence absolu. Tandis qu'avec le biais qui n'en est plus un, il rapporte l'émission de deux signaux.
+
+Si l'observateur écoute uniquement A, independamment du délai de réponse de B, que celui ci réémette dix ans ou dix milliards d'années plus tard. Il percevra les deux signaux extremement proches dans le temps, si les automates sont suffisament rapides.
+
+L'équivalent se produit avec B.
+
+En me focalisant sur le contenu du signal.
+
+Il possède une quantité d'information, qui dépend de la bande passante entre A & B.
+
+Il existe un cadre physique rendant cela théoriquement possible : si on réduit A et B à des points dans l'espace temps et qu'ils sont séparés par une longueur infinitésimale, alors pourquoi n'apparaitrait-il pas un effet tunnel, ou le mur de l'impossibilité de retourner en arrière ne pourrait pas être franchi par une information.
+
+Une chose est sure dans ce cadre s'il existe un nombre d'essais N et que cette distance infinitésimale est L, plus L est petit et/ou plus N est grand plus il y a de chance d'un retour dans le temps du signal et donc l'emergence d'une singularité.
+
+Je pars de cette hypothèse, qu'a un moment il est possible d'assiter a un tel phénomène, pour rédiger la suite.
+
+
+# Cosmogonie
 ## Axiomes
     Au commencemment il y a l'Information.
     Un Univers est une réprésentation tangible d'une Information
