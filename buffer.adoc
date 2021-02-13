@@ -3,6 +3,14 @@
     Au commencemment il y a l'Information.
     Un Univers est une réprésentation tangible d'une Information
 
+Au départ j'introduis la notion de cosmos en effet, j'ai besoin d'un endroit pour y placer des Univers. Cet endroit doit permettre à des Univers de se juxtaposer, de se succeder et de coexister, j'emploi le terme Cosmos car j'ai une affinité particulière avec les Grecs et j'estime que ce nom correspond.
+
+Cependant la notion de Cosmos n'est pas forcément un espace multidimensionel, il peut s'agit d'un espace logique plustot que physique.
+
+L'Information telle que je la définis est à considérer comme étant le récit de ce qui se déroule dans un Univers ou dans le Cosmos, ce dernier point me semble à affiner. L'Information peut être vue comme étant l'histoire d'un de ces objets mais rédigée à la toute fin de l'Univers considéré.
+
+
+
 ## Principes
 
 
@@ -11,15 +19,29 @@
     -   Les Univers peuvent se succeder dans un Univers de super ordre
     -   Deux Informations identiques donnent deux Univers identiques, en particulier ils possedent la meme quantité d'énergie.
     -   Un observateur dans des Univers identiques ne peut determiner l'ordinalité de son Univers, car toutes choses sont semblables en tout point.
-    -   La matérialisation d'un Univers est sa réprensation physique, elle dépend par ailleurs de la position dans l'espace temps de l'observateur.
+
+La il est juste question d'un experience de pensée, assez facilement si deux Univers ont la meme information, c'est à dire ont la meme histoire à la fin de temps, alors il est impossible à un observateur à l'interieur des ces Univers de dire dans lequel il vit actuellement.
+    
     -   Si existe une altération d'une information dans L'Information alors il est possible théoriquement de déterminer que l'on est pas dans l'Univers 0 puisqu'il peut exister des reliquats d'information non matérialisé.
 
+Ici, je pointe le fait que s'il existe une perturbation de l'Information pour un nieme Univers alors il devient possible, mais pas systematique pour un observateur de découvrir par le déficit qu'il est bien dans un nieme Univers. Si par exemple on reussit à quantifier la perte d'Information en fonction du nombre d'Univers précedent, alors il devient possible à un observateur de determiner précisement la valeur de n.
+
+    -   La matérialisation d'un Univers est sa réprensation physique, elle dépend par ailleurs de la position dans l'espace temps de l'observateur.
+
+Il y a ici une definition, celle de la matérialisation, qui s'oppose à celle de virtualisation que j'introduis plus tard. 
+
+Donc voilà cette partie introduit les liens entre un endroit, le Cosmos, ou différent Univers peuvent se succeder, coexister, se juxtaposer, se détruire, se créer, la notion d'Information, sorte de grand recit historique de chacun et des mécanismes qui peuvent s'averer utile pour dénombrer les Univers.
+
+    
 ## Objets  
     -   Toute chose est un objet
     -   Chaque objet est lié à l'Information
     -   Chaque objet peut posseder des attributs.
     -   Si un objet existe c'est que les causes essentielles à son existence existent.
     -   Si un objet n'existe pas c'est soit qu'une cause essentielle n'existe pas, soit une cause de sa non existence existe.
+
+Ici j'expose la notion d'objet, un objet peut contenir des objets qui sont des propriétés et d'autre sous-objet. Les objets agissent entre eux avec des interactions, et tout ce petit monde : objet, sous-objet, propriétés, interactions sont des objets. Du fait de la definition, un objet donné n'appartient pas forcément à la catégorie des plus petites entitée considérées, c'est le cas de certains, au moins à un moment. Il y aura beaucoup de choses à dire sur ces objets et parfois une definition récursive de ceux-ci s'averera utile.
+
     -   On peut regrouper les objets selon des critères, dans chacun des ensembles définis il existe une loi première de numération:
         -   Pour que (n+1) objet soient dans un ensemble il faut déjà qu'il y ait n objet dans cet ensemble :
         Conséquences:
@@ -154,5 +176,6 @@
     -   Si pour expliquer un phénomène on doit avancer des hypothèses compliqués, soit le resultat est erroné soit la question est mal posée.
     -   Tout individu devrait avoir la possibilité d'acceder à toute la connaissance et la technique qui lui sont accessible.
     -   L'Histoire qui est la connaissance du passé du monde ne doit pas être altérée sous peine d'induire les générations suivantes dans l'erreur.
+    -   La conscience est un sous ensemble de ce que le cerveau percoit.
     -   
 
