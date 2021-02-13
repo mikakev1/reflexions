@@ -51,7 +51,7 @@ Il existe un cadre physique rendant cela théoriquement possible : si on réduit
 
 Une chose est sure dans ce cadre s'il existe un nombre d'essais N et que cette distance infinitésimale est L, plus L est petit et/ou plus N est grand plus il y a de chance d'un retour dans le temps du signal et donc l'emergence d'une singularité.
 
-Je pars de cette hypothèse, qu'a un moment il est possible d'assiter a un tel phénomène, pour rédiger la suite.
+Je pars de cette hypothèse, qu'a un moment il est possible d'assiter a un tel phénomène, pour rédiger la suite, car c'est une des seules capable de rendre compte du phénomène d'intrication quantique et simplifie considérablement les choses ensuite, si on se base sur les interactions, plutot que les corps.
 
 
 # Cosmogonie
