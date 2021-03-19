@@ -54,8 +54,8 @@ Une chose est sure dans ce cadre s'il existe un nombre d'essais N et que cette d
 Je pars de cette hypothèse, qu'a un moment il est possible d'assiter a un tel phénomène, pour rédiger la suite, car c'est une des seules capable de rendre compte du phénomène d'intrication quantique et simplifie considérablement les choses ensuite, si on se base sur les interactions, plutot que les corps.
 
 
-# Cosmogonie
-## Axiomes
+## Cosmogonie
+### Axiomes
     Au commencemment il y a l'Information.
     Un Univers est une réprésentation tangible d'une Information
 
@@ -236,3 +236,8 @@ Ici j'expose la notion d'objet, un objet peut contenir des objets qui sont des p
     -   La conscience est un sous ensemble de ce que le cerveau percoit.
     -   
 
+
+Questions :
+
+    Existe il une forme topologique non orientable compacte et connexe d'un Univers, qui fasse que partant d'un point A en ligne droite, on revient au point A dans un Univers ou le temps s'écoule négativement et potentiellement ou matière et antimatière sont inversés. Ceci pourrait simplifier la mécanique car cela signifierai qu'en chaque point, il existe une possibilité restreinte de communication d'Information au travers d'un effet tunnel entre les deux parties de l'univers à écoulement de temps inversés ce qui peut permette de créer un paradoxe temporel.
+    
