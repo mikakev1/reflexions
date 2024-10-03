@@ -1,3 +1,19 @@
+# Parasparopagraho Jivanam
+
+Depuis ce monde et à travers tout les autres, à la racine de nos langues et donc de nos pensée, il exite un objet, déclinable en tout éléments, toute époque et tout endroit, qui sert de ligne directrice et dans les ténébres rappelle la direction à suivre.
+
+Nous nous devons tous, une assistance mutuelle, qui permet de dépasser chaque remous d'une époque, guider chaque pas même dans l'inconnu ou l'intangible,  ouvrir à tous le droit de n'être qu'un, tout en nous protègeant de la solitude, puisque nous sommes tous constitutifs de l'ensemble et donc de la totalité.
+
+Coordonnons nous, pour une fois pour toute faire disparaitre la guerre de nos vies, puis de notre langue.
+
+La seule violence qui pourrait etre requise, ne l'est que dans les premiers temps, et à destination de nous-memes, elle porte le nom d'autodiscipline et elle affectera, tenez-le pour dit, chaque personne qui vous cottoie, donc potentiellement chaque personne qui vous aime, ou vous défie.
+
+ Paras-paro-pagra-ho Jivanam
+
+
+
+
+
 # Avant  Propos
 
 ## Processus rhétoriques 
