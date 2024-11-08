@@ -23,7 +23,7 @@ On se refère par exemple à la selection naturelle, pour décrire la compétiti
 On emploi également fréquemment le langage martial, pour décrire la force de l'action, ou l'organisation sociale que l'action, selon ses promoteurs, imposerait. Notamment si cela permet de taire la contestation.
 
 Ces types de comparaison ou de references, sont très souvent limitées, fallacieuses, grossières. Mais le pire n'est pas cela, il est tout simplement que soit invoqué quelque chose qui est resté très largement incompris ou mal compris.
-L'invocation de la science est également employé pour détruire les argumentaires qui font face, en s'enrobant, dans une sorte de légitimité, que confère la science.
+L'invocation de la science est également employée pour détruire les argumentaires qui font face, en s'enrobant, dans une sorte de légitimité, que confère la science.
 
 Déjà, disposons, ici, d'une convention entre nous : Il y a la science des humains, qui elle est à considérer dans une époque, qui est limitée par la technique de cette époque et les limitations culturelles, de cette époque, et on peut meme décliner en employant une restriction, d'ordre géographique.
 Et..., et il y a la Science, une version, fixe, intemporelle, indépendante, de ce que l'Humain ou toute autre créature, sera capable de concevoir, imaginer, experimenter.
@@ -99,6 +99,60 @@ Et nous savons par ailleurs detecter l'antimatière, notre technologie, meme si 
 La réalité est probablement, que nous pechons par une incompréhension, de la structure de l'univers, qui nous fait concevoir une restriction de l'univers, comme étant l'univers.
 
 Et si le temps était venu, de définir le temps et la gémélité entre cause et conséquence ?
+
+
+## Le modèle techno communiste
+
+Le techno-communisme s'inscrit dans une démarche impérialiste molle. Il s'agit déjà de considérer que l'autre est autre, et qu'il possède un parcours différents et donc refuse la promotion d'un ordre ou d'une direction supérieure, puisqu'elle exigerait alors, une mise en conformité.
+Plus que les moyens l'idée doit diriger l'acte, afin de permettre à chaque étape la validation de la conformité d'une démarche.
+
+En gros, si le système devait échapper au controle, il convient de mettre en place les garde-fous, afin de valider la directions choisie et les décisions prises en regard de la théorie. C'est  une sorte donc, et cela est dangereux, sans contre pouvoirs, d'idéologie, embarquant un système auto-correcteur.
+
+Il va sans dire qu'amener le techno-communisme dans une société, fusse-t'elle humaine, ne doit pouvoir se faire, que selon un chemin jalonné d'étapes, car sinon, le risque de blocage et d'auto-destruction ou pire, de poussées à l'extrème de force contraires, viendrait a en défaire pour longtemps, les buts et principes.
+
+Cela exige également que les principes défendus, soient peu nombreux et clairement explicités et que selon la durée, gardent malgré tout, malgré les evolutions culturelles donc celles autour de la sémantique, une stabilité.
+
+Tentons donc de résumer le techno-communisme ainsi : Il s'agit d'organiser le plus grand nombre, afin de produire génération après génération, le progrès autour des axes intellectuels, artistiques et sportifs, en ayant les impacts environementaux les plus faibles, à l'entrée comme à la sortie. Ce dernier point dit en substance: Ne cherchons pas à modifier la nature, pour servir la cause et veillons à ce que la cause n'avilisse pas la nature.
+
+Il est donc necessaire de refuser par exemple le techno-solutionisme.
+
+Comme le techno-communisme est axé autour d'un système économique, décrivons-le.
+
+Il s'agit d'augmenter le temps libre de la population, en augmentant, l'automatisation des taches pénibles et à chaque palier d'automatisation, rédéployer les gains de productivité en réduction du temps de travail et en réaffectant la force de travail, là ou l'humain produit le plus d'effet benefique, le soin et l'éducation par exemple.
+
+Il s'agit également de considérer que l'etre vivant est stable, pour le meilleur ou pour le pire et que la société doit être architecturée avec l'idée de base qu'elle est faillible et finira corrompue, indépendament des contre mesures prises, et à partir de là, définir des mécaniques de redressement et de compensation.
+
+Focalisons nous sur l'humain, le premier echelon : Il est faillible, il ne changera pas, il est donc corruptible et finira par trahir. Nous devons donc construire un système autoréparateur, qui prenne en compte qu'il sera animé par des humains.
+
+Et de là en définir les caractéristiques.
+
+## Les déclinaisons des systèmes de production
+
+## l'organisation etatique : trois presque pouvoirs totalitaires, dans un système presque complet et presque totalement verrouillé
+
+A la fin des temps, tout pouvoir fini par etre total, verrouillé, oxydé, et toutes les contre mesures auront été vaincues : Voici le résultat qu'apporte la violence et comment elle marque le point final.
+
+Ceci est ineluctable, donc à partir de là, incorporons cette issue, dans l'ensemble et faisons en sorte qu'au lieu d'etre un élément terminateur, cela soit un élément prévu et un simple état transitoire. Organisons donc le pouvoir, pour que lorsqu'il se termine, après une phase de décadence et de reprise en main, il reprenne une forme compatible et corrigée. Integrons la fin pour définir les moyens.
+
+Nous pouvons définir que l'état totalitaire ne concerne qu'une partie de la population, cela pourrait prendre la forme d'une gérontocratie. 
+De même, nous pouvons définir que l'état totalitaire ne concerne qu'une partie de la population, cela pourrait prendre la forme d'une aristocratie ou une méritocratie.
+
+En fait c'est la nature de ce qui conteste le pouvoir hégémonique, qui défini la nature de l'hégémon. La masse conteste l'élite, les jeunes trouvent que les vieux cons, sont hors sol.
+Cela est du à la perception du dominé, tandis que le dominant a construit avec son propre regard, au fil du temps, l'idée de ce qu'il devait être fait, si les circonstances ont été suffisament indicatrices pour cela.
+
+On s'appercoit très vite que nous finirons dans une impasse pour plusieurs raisons : Nous ne pouvons pas assurer qu'une éducation formatera tout le monde - d'ailleurs ce genre de chose est totalement suicidaire, car limite l'adaptabilité d'une population. Egalement, il sera difficile de définir une société si plastique, qu'elle aura l'aptitude à devenir capable de faire rouler, le point terminateur, qui représente l'Echec final, indéfiniment.
+
+L'Echec final étant certain, difficile à faire rouler, nous devons donc apprendre à la population, comment se comporter quand la société est bloquée.
+
+Le code auto-correcteur, ne pouvant être intégré par exemple à une constitution,, sera donc à déléguer à la population, et la charge de remerdier à l'échec total, lui sera transféré. En premier lieu, on comprend le role primordial de l'historiographie. Il faudra archiver les solutions qui adviendront car elles serviront d'études de cas et des references ultérieures. L'autre aspect, impose une totale transparence de l'Etat.
+
+Nous avons donc, du fait de la notion d'autocorrection, l'idée de la transparence totale et de l'archivage le plus complet comme requis, lors de la constitution d'une société qui répondrait à ces besoins.
+
+
+
+
+
+
 
 
 
