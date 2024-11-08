@@ -114,7 +114,9 @@ Cela exige également que les principes défendus, soient peu nombreux et claire
 
 Tentons donc de résumer le techno-communisme ainsi : Il s'agit d'organiser le plus grand nombre, afin de produire génération après génération, le progrès autour des axes intellectuels, artistiques et sportifs, en ayant les impacts environementaux les plus faibles, à l'entrée comme à la sortie. Ce dernier point dit en substance: Ne cherchons pas à modifier la nature, pour servir la cause et veillons à ce que la cause n'avilisse pas la nature.
 
-Il est donc necessaire de refuser par exemple le techno-solutionisme.
+Il est donc necessaire de refuser par exemple le techno-solutionisme, par ailleurs il ne s'agit pas de créer l'homme nouveau, ou de faire ressurgir l'aieul glorieux, mais simplement de completer et de combler les lacunes, le transhumanisme, n'a donc pas sa place ici. A la puce dans le cerveau, nous prefererons le par-coeur, au bionique, le corps entrainé, à l'antidépresseur ou l'anxiolytique, le juste regard sur soi. Il y a toutefois, des aspects prioritaire, de manière récursive, on s'occupera, chaque fois des groupes les plus importants, en négligeant le minoritaire, ce qui prendre forcément l'aspect dans de rares cas, d'une forme d'eugénisme, qui n'est absolument pas volontaire, mais simplement une conséquence prévisible.  En effet, si à chaque fois on s'occupe de la masse la plus nombreuse c'est au détriment des masses les moins nombreuses et certaines maladies rares auront eut le temps d'achever les malades. Que cela soit regrettable est un fait, mais on ne peut pas sauver tout le monde et quand on doit prvivilegier un groupe, on priviliegera le groupe le plus nombreux. A terme, potentiellement, mais il ne faut pas trop y croire, meme les ultra minoritaires seront l'élément sur lequel sera focalisé l'action sociale positive, ceci par contre, est une etape lointaine donc très hypothétique.
+
+
 
 Comme le techno-communisme est axé autour d'un système économique, décrivons-le.
 
