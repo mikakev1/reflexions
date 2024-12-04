@@ -150,6 +150,70 @@ Le code auto-correcteur, ne pouvant être intégré par exemple à une constitut
 
 Nous avons donc, du fait de la notion d'autocorrection, l'idée de la transparence totale et de l'archivage le plus complet comme requis, lors de la constitution d'une société qui répondrait à ces besoins.
 
+## Le Qorum
+
+Le Quorum, est l'unité territoriale primordiale, qui peut refuser l'ajout de nouveaux entrants et définir les règles d'accession et de jointure ou de séparation entre deux ou plusieurs empire mous, concurrents. C'est comparable au noyeau d'une cellule grossissant par absorption ou se divisant par pathénogénèse.
+
+### Le principe de l'empire mou
+
+Pour la France, cela signifie principalement d'aller valoriser l'outremer, d'y déplacer de nouvelles compétences et les financement associés et de maintenir un identique niveau de confort pour tous les citoyens.
+
+L'empire mou, ayant pour objectif de lancer des coopérations multilatérales, pour tenter de limiter l'appartition de conflit, il procède par l'exemple et l'exemple, peut inspirer ou non, les pays limitrophes, et ensuite ils pourraient vouloir nous copier. Or comme les extremités de l'empire mou, sont proches culturellement des pays limitrophes, grace à l'extension de la sphere d'influence, on peut ultimement arriver à une fusion entre empires mou.
+
+Cette fusion est batie par un accord, validé par les quorums, chaque partie est libre de reprendre son indépence.
+
+En cas de fin de continuité territoiriales suite à un départ d'un quorom, l'empire mou, devient multicéphale, si les différents peuples votent dans ce sens. Alors il devient à tous necessaire à la suite d'une periode d'un siècle de confirmer la séparation et la désignation de nouveaux quorums.
+
+
+
+
+
+
+## principes de la séparation des pouvoirs
+
+Le techno-communisme, est schématiquement la transposition de la démocratie, partout ou il existe un pouvoir en dehors de la sphère privée.
+
+La notion de contre-pouvoir, n'est pas pertinente dans une démocratie, en effet, le peuple peut choisir ses lois, moduler leurs application et créer des regles rétroactives, explicites ou implicites (le principe de juger et condamner); 
+
+Par contre des parties du peuples devront être requisitionnées aléatoirement, et se voir attribuer des pouvoir supérieurs de manière temporaire, pour pouvoir exercer un pouvoir de controle sur les différentes entités de la société.
+
+Nous allons décrire trois pouvoirs :
+
+La réquisition: le principe notammenet régalien, qui permet de mobiliser tout individu et lui confier une mission prédéfinie et cadrée.
+L'inquisition: le principe de pouvoir interroger n'importe quelle personne, qui sera obligée de répondre. toutes les inquisitions sont publiées dans la presse.
+La perquisition : le principe de pouvoir entrer ou sortir, ouvrir ou fermer n'importe quoi, n'importe où.
+
+## La réquisition
+
+La réquisition est le principe, ressemblant à l'executif, qui impose à une personne une mission. Par exemple, tout les citoyens tirés au sort, sont en rréalité réquisitionnés, mais également, les militaires et les fonctionnaires, sont réquisitionnés.
+
+## L'inquisition 
+
+L'inquisition est un système pensé pour eviter les situations ou une persone refuse de rendre des comptes à la presse. C'est une sorte de groupement d'interet qui compense et remplace ce que pourrait être un ministère de l'information.
+
+
+## La persquisition 
+
+C'est quelque chose qui pourra faire penser au ministère de la justice : un prisonnier est quelqu'un qui se trouve dans une pièce fermée. Les dossiers sont dans des tiroirs que l'on peut ouvrir ou fermer.
+
+## Le pouvoir de controle
+
+Le pouvoir de controle est assuré par des citoyens tirés au sort formés en brigade, qui se voient munis chacun d'un pouvoir. 
+
+Exemple :
+Imaginons que l'Etat désigne trois personnes, ct qu'ils décident d'aller inspecter un ministère.
+
+Celui muni du pouvoir de perquisition, ouvrira toutes les portes et tirroirs, celui munis du pouvoir d'inquisition, interrogera toutes les personnes, celui muni du pouvoir de requsition, pourra requisitionner des forces de police et des juges d'instruction, pour contraindre les gens refusant de se soumettre au controle, à le subir malgré tout.
+
+### Decret d'application 
+
+Si les lois sont votées nationalement, les département ont le devoir, dans une assemblée départementale, peuplée par tirage au sort de définir, les decrets d'application associés.
+
+Cette facilité, permettra à l'empire mou, de pouvoir aggreger facilement, des peuples voulant le rejoindre.
+
+
+
+
 
 
 
