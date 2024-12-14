@@ -1,3 +1,22 @@
+# Principe premiers
+
+Une chose est evidente, pour qu'un livre possède une seconde page, il faut qu'il en ait déjà une première.
+Ce principe, indémontré, semble être précurseur des mathématiques, et donc il possède un domaine d'application, qui dépasse ou égale, celui des mathématiques.
+
+Il décrit également un principe important en matière de politique : il y a une prime donnée au conservatisme.
+
+Si nous ajoutons une notion de travail :
+Il tend également à produire l'intuition, que celui qui fait une chose une fois, a sans doute plus de chance de la refaire, plutot qu'un autre de la faire une première fois.
+Egalement, cela montre qu'un individu qui tricherait, aurait plutot tendance à entrevoir les tricheries des autres, car il est plus simple d'imaginer les autres agissant comme soi;
+
+On en déduit ceci :
+
+Un traitre aura plus de chance de trahir une seconde fois, donc on ne peut s'appuyer sur eux.
+Une personne qui hurle à la fraude, a de grandes chances d'être lui-meme un fraudeur.
+
+
+
+
 # Parasparopagraho Jivanam
 
 Depuis ce monde et à travers tout les autres, à la racine de nos langues et donc de nos pensée, il exite un objet, déclinable en tout éléments, toute époque et tout endroit, qui sert de ligne directrice et dans les ténébres rappelle la direction à suivre.
