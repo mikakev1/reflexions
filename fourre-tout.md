@@ -15,6 +15,31 @@ Un traitre aura plus de chance de trahir une seconde fois, donc on ne peut s'app
 Une personne qui hurle à la fraude, a de grandes chances d'être lui-meme un fraudeur.
 
 
+# Spinoza
+
+Je n'ai rien contre le fait qu'il associe Dieu à la Nature, c'est ce que je fais moi-meme depuis le départ, sauf que pour ma part j'appelle tout nature.
+
+Par contre il décrit que les prophètes hallucinent, on dira, c'est aussi une de mes hypothèses et je pense que le plantes enthéogènes sont une bonne explication dans deux cas :
+- Hallucinations sans apports exterieurs 
+- Facilitation de la création d'un effet tunnel
+
+Voici un approfondissement du second cas :
+
+Lorsque deux humains, ont des ensembles de coordonnées assez proches, c'est-à-dire avec peu de différences entre les ensembles si on évalue point après point, et si l'univers est un paradoxe temporel, un message du futur peut passer de l'un à l'autre, y compris s'il doit remonter le temps. Tous les prophètes ne sont pas concernés par le phénomène, certains plus rares, le sont.
+C'est simplement un type d'effet tunnel.
+
+Or si on fait une réduction des cordonnées en ne s'occupant que des cerveaux, le spectre des similarités possibles entre ces deux individus augmente extrêmement fortement.
+
+Puisqu'il existe probablement des Etats de conscience proches, suite à l'absorption de substance, de proximité géographiques, d'état de fatigue, de stress, eventuellement de linéage, on peut evaluer que le fait de se trouver dans un temple ou à proximité, en ayant consommé des substances hallucinogènes, tout en étant dans un état de stress similaire augmente la probabilité de creer une passerelle entre deux individus distants par le temps.
+
+Dans ce cas ou le cas général, les memes questions se posent, de manière non exhaustive, puisqu'il s'agit de communication :
+- Les transferts concernés alors sont entre combien d'entité (qui), existe-t'il une connection de pair à pair, d'une entitét vers un groupe, il y a t'il une entité qui reste la meme dans tous les cas d'un bout ou de l'autre, le transfert est-il un maillage comprenant plusieurs groupes et/ou plusieurs temporalité.
+- Est-ce que le transfert d'information est bidirectionnel, notamment, est-ce qu'une entité fait les questions et les réponses, de sorte que l'autre se croit dialoguer, alors qu'il n'en est rien.
+- Quel est le taux d'erreur durant un transfert, qu'en est-il de la sécurité du flux ? : Est-ce que ce qui est transféré n'est pas altéré ou détourné, est-ce que ce qu'une entité transfert toujours ce qu'elle souhaite transferer, est-ce que la destination recoit le message et le comprend : exemple est-ce qu'un lapsus peut s'introduire ? Est ce que les "mots" ont les memes significations entre les époques.
+
+
+
+
 
 
 # Parasparopagraho Jivanam
