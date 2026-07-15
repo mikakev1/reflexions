@@ -1,3 +1,13 @@
+# YHWH
+
+Si l'univers est un paradoxe temporel, créé,  par une entité, cette entité se donne fatalement naissance, dans le même mouvement, en créant, pour simplifier, sa race (lignage).
+Cette entité aura probablement une vie, comme tout le monde, c''est à dire qu'elle est capable d'apprendre; de travailler sur elle-même, d'évoluer, de régresser, d'acquérir de la sagesse, avoir des coups de sangs, exactement comme toutes les formes de vies issues de son espèce...
+Selon moi, alors, cette entité si on souhaite la décrire par un verbe qui serait YHWH, on peut comprendre YHWH comme ayant le sens : "je suis celui qui sera défini par lui-même."
+
+Puisqu'à cet instant T, l'entité est encore "perfectible", en réalité cette entité sera "parfaite" quand elle ne pourra plus évoluer, c'est-à-dire une fois morte. 
+
+Donc si Dieu existe et parle à Moise à ce moment, Dieu, n'est pas encore sénile, car il dit qu'il continue de se définir.
+
 # Principe premiers
 
 Une chose est evidente, pour qu'un livre possède une seconde page, il faut qu'il en ait déjà une première.
