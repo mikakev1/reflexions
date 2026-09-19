@@ -1,13 +1,33 @@
-Le poisson pourrit par la tête, là tu as encore des amis et des gens valables à la CR, cela ne durera pas, ils seront évacués, éliminés, et tu auras un clone de la FNSEA, qui reprendra Business Europe et ses directives.
-Le monde paysan, souffre de deux choses :
-- Etre des hommes de paroles face à des gens qui n'en ont aucune, et après presque 75 ans de cette valse, croire en ce système cela s'appelle être un con. (il devrait être interdit de lire ouest france)
-- le libre échangisme, dont la vitrine est l'UE.
+Sur la CR et le syndicalisme agricole
+Le poisson pourrit par la tête. Aujourd'hui, il reste encore à la Coordination Rurale des gens honnêtes et des amis sincères. Mais cela ne durera pas : ils seront progressivement écartés, éliminés, jusqu'à ce que la CR devienne un simple clone de la FNSEA, docile aux injonctions de BusinessEurope et de ses directives.
+Sur les deux plaies du monde paysan
+Le monde paysan souffre de deux maux profonds :
 
-EELV ne fait pas d'écologie, les mouvements écolos sont montés et financés par les pétroliers des USA.
+    D'abord, d'être des hommes de parole face à des interlocuteurs qui n'en ont aucune. Après près de soixante-quinze ans de cette valse de promesses trahies, continuer à croire en ce système relève de la naïveté la plus obstinée (et s'il fallait une mesure salutaire, ce serait d'interdire la lecture d'Ouest-France).
+    Ensuite, le libre-échangisme, dont l'Union européenne n'est que la vitrine institutionnelle.
 
-Si tu veux faire de l'écologie, il faut aller vers la permaculture ou l'aggroforesterie, et cela fait que ton materiel sera souvent à remplacer, donc c'est couteux.
+Sur l'écologie politique
+EELV ne fait pas d'écologie. Les mouvements écologistes, dans leur forme actuelle, ont été montés et financés par les intérêts pétroliers américains.
+Sur l'agriculture souhaitable
+Si l'on veut faire de la véritable écologie, il faut se tourner vers la permaculture et l'agroforesterie. Mais ces pratiques imposent une rupture technique : le matériel conventionnel doit être remplacé, et non simplement renouvelé. Ce changement de nature de l'outillage engendre un surcoût majeur qu'il faut assumer.
+Si j'étais chef d'État, voici mon programme :
 
-Si j'étais chef d'Etat, je monterai des centrales d'achats développerai le rail, j'en finirai avec les grandes sufraces, et je laisserai les camion Espagnols traverser le pays pour y déposer leurs production en europe du nord, mais sur mes rails et en échange d'un péage,  par contre hormis dans de rares cas, rien de ne débarque chez nous, des rares cas, par exemple , ce serait de la mangue et de la grenade, pour les parcelles je rémunérerai selon l'inverse de la surface des parcelles (déduisez cheptel de ceci), de sorte que se produise un exode citadin, et je double, voir triple en cas de mise en place d'AF ou de perma : le but est de revenir à un système pré 1940 avec l'apport de la technologie depuis, mais des rythmes et des rites d'alors, afin de faire baisser la charge de travail, augmenter les revenus réduire la pression sur les écosystèmes et pour outiller je nationaliserai Klass et on ferai du drone pour le suivi des parcelles et des cheptel, afin de supprimer la paperasse.
-A terme car je suis pour la fin de l'abattage des animaux, je préfère qu'ils meurent de viellesse,  je ferai subventionner la viande, pour que tout le monde en ait à manger et je ferai le retour de la vaine pature et les enclos emargeraient au mllieu des forets, afin de diversifier l'alimentation des animaux.
+    Je créerais des centrales d'achat publiques et je relancerais massivement le rail.
+    J'en finirais avec les grandes surfaces.
+    Les camions espagnols pourraient toujours traverser le pays pour livrer leur production en Europe du Nord, mais uniquement sur nos rails, contre un péage. En revanche, hormis de très rares exceptions (comme la mangue ou la grenade), plus rien ne débarquerait chez nous.
+    J'instaurerais un système de rémunération inversement proportionnel à la taille, appliqué de la même manière aux deux piliers de l'exploitation :
+        Pour les parcelles : Plus la surface est petite, plus la rémunération à l'hectare est élevée.
+        Pour le cheptel : Le principe est identique. Plus le troupeau est restreint, plus la tête de bétail est valorisée.
+        Le but est clair : casser les fermes-usines, favoriser les petites structures à taille humaine et provoquer un véritable exode citadin vers les campagnes.
+    Je doublerais, voire triplerais, ces aides en cas de conversion à l'agroforesterie (AF) ou à la permaculture, précisément pour absorber le coût de remplacement de ce matériel devenu obsolète.
 
- Pour les paysans des loisirs et des vacances, pour les animaux la vie devant eux et milles espèce de blé dans les champs.
+L'objectif global : revenir aux rythmes et aux rites d'avant 1940, mais enrichis de la technologie contemporaine. Il s'agit de faire baisser la charge de travail, d'augmenter les revenus et de réduire la pression sur les écosystèmes. 
+
+    Pour outiller cette transition, je nationaliserais Klass et je développerais le drone agricole : suivi des parcelles, suivi des cheptels, et suppression définitive de la paperasse.
+    À terme, car je suis pour la fin de l'abattage des animaux (je préfère qu'ils meurent de vieillesse), je ferais subventionner la viande pour que chacun puisse continuer à en manger.
+    Je rétablirais la vaine pâture et les enclos en lisière de forêt, afin de diversifier naturellement l'alimentation des bêtes.
+
+En conclusion :
+Pour les paysans : des loisirs et des vacances.
+Pour les animaux : la vie devant eux.
+Et dans les champs : mille variétés de blé.
