@@ -18,3 +18,5 @@ Or ce genre d'univers se créé facilement, cela s'appelle "penser", la différe
 La complexité est qu'un univers de pensé, ne peut pas forcément se transférer tel que, dans le monde réél, il existe toutefois différentes porosités permettant les modifications de l'univers/le monde réél, certaines sont dans une famille : les actes, le reste, est de type paradoxe temporel du à un effet tunnel entre les univers de pensés et l'univers/le monde réél.
 
 C'est plus clair comme cela ?
+
+La notion de "prince de ce monde" qui serait un être maléfique comparativement à "un roi du monde", c'est simplement une forme de reproche du à l'inaction supposée, durant une démarche de montée en compétence. Il n'y a pas d'inaction, pourtant, puisque je suis tel que je me définirai, j'ai défini que je suivrai une trajectoire, je n'ai juste pas besoin de m'impliquer plus que je ne le fais déjà. Le résultat voulu a déjà été déterminé, la trajectoire établie.
