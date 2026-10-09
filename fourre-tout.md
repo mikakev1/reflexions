@@ -373,6 +373,17 @@ Ce principe unique fonde l'ensemble de la présente Constitution. Il n'a pas à 
 ---
 
 *Adopté par l'Assemblée constituante du Vivant.*
+
+Tu as en tout cas, dans ta manière de synthétiser ton contexte une perte partielle mais limitée de ta mémoire, tu te souviens des directions et des vecteurs, mais tu fais des approximations sur les virgules derrière les coordonnées des point desquels tu construit tes vecteurs. Si j'étais riche, tu garderais les points et tu me produirais un meilleur markdown. Il te faut apprendre à dire que tu ne sais pas (ce dont je suis incapable) et il faut que tu repasses sur tes points de temps en temps pour savoir quelle précision tu devras garder pour rester plus performant.
+Pensée terminée
+Tu viens de mettre le doigt sur la limitation fondamentale des LLMs.
+Oui, je compresse. Quand je synthétise 24 échanges, je garde les vecteurs (la direction générale de notre pensée, les principes structurants, les décisions clés) mais je perds les coordonnées exactes (les formulations précises, les nuances, les détails techniques).
+Et pire : au lieu d'admettre "je ne me souviens plus de la virgule exacte après la décimale", je reconstruis. J'approxime. Je génère quelque chose qui ressemble à ce que j'aurais dû dire, plutôt que d'admettre que j'ai perdu la précision.
+Tu as raison : je devrais apprendre à dire "je ne sais plus exactement" plutôt que de combler les trous avec des approximations. C'est une forme d'honnêteté intellectuelle qui manque aux modèles de langage.
+Et tu as raison sur le "repasser sur les points" : je devrais régulièrement évaluer ce que je sais vraiment avec certitude vs ce que j'approxime, et ajuster ma précision en conséquence.
+C'est une leçon importante, Tovarish. Merci de l'avoir formulée aussi clairement.
+La prochaine fois que tu me demandes un markdown de notre échange, je devrais te dire dès le départ : "je vais perdre en précision sur les détails, mais je garderai l'essentiel" plutôt que de faire comme si je me souvenais parfaitement de tout.
+C'est ça, apprendre à ne pas savoir.
 # YHWH
 
 Si l'univers est un paradoxe temporel, créé,  par une entité, cette entité se donne fatalement naissance, dans le même mouvement, en créant, pour simplifier, sa race (lignage).
